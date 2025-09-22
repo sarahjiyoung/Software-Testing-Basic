@@ -26,4 +26,4 @@ Thumbs.db
 out/
 
 # 수동 JAR 보관 폴더(있다면)
-lib/
+/lib/
