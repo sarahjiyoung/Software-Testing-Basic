@@ -1,0 +1,29 @@
+# Maven 산출물
+target/
+dependency-reduced-pom.xml
+
+# 로그/덤프
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS 잡파일
+.DS_Store
+Thumbs.db
+
+# 에디터/IDE
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# 임시/캐시
+*.swp
+*.swo
+.out/
+out/
+
+# 수동 JAR 보관 폴더(있다면)
+lib/
